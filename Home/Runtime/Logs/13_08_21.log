@@ -1,0 +1,17 @@
+[ 2013-08-21T16:28:16+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016647s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.073547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073684s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001101s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013175s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002920s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019018s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001630s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001715s ]
+

@@ -1,0 +1,377 @@
+[ 2013-08-22T08:45:48+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/north?_=1377132348376
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046166s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000626s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000502s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000361s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002381s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000701s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2013-08-22T08:45:48+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/west?_=1377132348384
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.005971s ]
+SQL: SELECT * FROM `node` WHERE ( level=2 and ismenu=1 and status=1 ) ORDER BY sort  [ RunTime:0.000731s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='12' ) ORDER BY sort  [ RunTime:0.000403s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='16' ) ORDER BY sort  [ RunTime:0.000326s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='20' ) ORDER BY sort  [ RunTime:0.000310s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='25' ) ORDER BY sort  [ RunTime:0.000310s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='28' ) ORDER BY sort  [ RunTime:0.000325s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='32' ) ORDER BY sort  [ RunTime:0.000495s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='34' ) ORDER BY sort  [ RunTime:0.000299s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='37' ) ORDER BY sort  [ RunTime:0.000237s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='2' ) ORDER BY sort  [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059582s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000819s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000704s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003125s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000932s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2013-08-22T08:45:48+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/center?_=1377132348390
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.079281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079394s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001081s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001033s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001213s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004872s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001632s ]
+
+[ 2013-08-22T08:45:48+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/south?_=1377132348400
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007157s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033026s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001237s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000979s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004656s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003257s ]
+
+[ 2013-08-22T08:45:48+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/east?_=1377132348395
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008317s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036599s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000891s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000904s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000848s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003857s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001013s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2013-08-22T08:45:49+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/mytable?_=1377132349010
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004284s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000440s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000446s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000333s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001931s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000693s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2013-08-22T08:45:57+08:00 ] 127.0.0.1 /jsk/admin.php/User?_=1377132356912
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023375s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000638s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000601s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000333s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002313s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000750s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2013-08-22T08:45:57+08:00 ] 127.0.0.1 /jsk/admin.php/User/getAllUser
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.006836s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.000437s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 27 行.
+SQL: SELECT * FROM `user` ORDER BY `account` asc LIMIT 0,10   [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.005470s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='1' [ RunTime:0.000439s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='2' [ RunTime:0.000303s ]
+
+[ 2013-08-22T08:46:04+08:00 ] 127.0.0.1 /jsk/admin.php/Role?_=1377132364068
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019154s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000622s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000488s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000336s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002193s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000728s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2013-08-22T08:46:04+08:00 ] 127.0.0.1 /jsk/admin.php/Role/getAllRole
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.004376s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.000298s ]
+SQL: SELECT * FROM `role` ORDER BY id asc  [ RunTime:0.000354s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004474s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='1' [ RunTime:0.000902s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='2' [ RunTime:0.000483s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='20' [ RunTime:0.000247s ]
+
+[ 2013-08-22T08:46:09+08:00 ] 127.0.0.1 /jsk/admin.php/Node/getAllNode
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.007121s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `node` LIMIT 1   [ RunTime:0.000757s ]
+SQL: SELECT * FROM `node` ORDER BY sort asc  [ RunTime:0.001130s ]
+
+[ 2013-08-22T08:46:20+08:00 ] 127.0.0.1 /jsk/admin.php/Public/logout
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' E:\wamp\www\jsk\Admin\Lib\Action\PublicAction.class.php 第 44 行.
+
+[ 2013-08-22T08:46:37+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/north?_=1377132397395
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.005302s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=2 and node.pid=1 and node.status=1 [ RunTime:0.001240s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=12 and node.status=1 [ RunTime:0.000534s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=16 and node.status=1 [ RunTime:0.000916s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=20 and node.status=1 [ RunTime:0.000866s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=25 and node.status=1 [ RunTime:0.000811s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=28 and node.status=1 [ RunTime:0.000992s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011123s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000676s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000605s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002595s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000719s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2013-08-22T08:46:37+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/west?_=1377132397403
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.000535s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=2 and node.pid=1 and node.status=1 [ RunTime:0.000772s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=12 and node.status=1 [ RunTime:0.001424s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=16 and node.status=1 [ RunTime:0.000642s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=20 and node.status=1 [ RunTime:0.000453s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=25 and node.status=1 [ RunTime:0.000401s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=28 and node.status=1 [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004643s ]
+SQL: SELECT * FROM `node` WHERE ( level=2 and ismenu=1 and status=1 ) ORDER BY sort  [ RunTime:0.000836s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='12' ) ORDER BY sort  [ RunTime:0.000565s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='16' ) ORDER BY sort  [ RunTime:0.000378s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='20' ) ORDER BY sort  [ RunTime:0.000416s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='25' ) ORDER BY sort  [ RunTime:0.000643s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='28' ) ORDER BY sort  [ RunTime:0.000573s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='32' ) ORDER BY sort  [ RunTime:0.000414s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='34' ) ORDER BY sort  [ RunTime:0.000353s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='37' ) ORDER BY sort  [ RunTime:0.000302s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='2' ) ORDER BY sort  [ RunTime:0.000433s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013399s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000603s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000516s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000388s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001057s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002802s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000862s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2013-08-22T08:46:37+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/east?_=1377132397412
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.000620s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=2 and node.pid=1 and node.status=1 [ RunTime:0.000750s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=12 and node.status=1 [ RunTime:0.000559s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=16 and node.status=1 [ RunTime:0.000516s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=20 and node.status=1 [ RunTime:0.000631s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=25 and node.status=1 [ RunTime:0.000496s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=28 and node.status=1 [ RunTime:0.000903s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010052s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000688s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000599s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000878s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002918s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001269s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001384s ]
+
+[ 2013-08-22T08:46:37+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/center?_=1377132397407
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.000602s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=2 and node.pid=1 and node.status=1 [ RunTime:0.000746s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=12 and node.status=1 [ RunTime:0.000879s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=16 and node.status=1 [ RunTime:0.000992s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=20 and node.status=1 [ RunTime:0.000539s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=25 and node.status=1 [ RunTime:0.000477s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=28 and node.status=1 [ RunTime:0.000463s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009292s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000588s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000486s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000356s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002245s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000769s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2013-08-22T08:46:37+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/south?_=1377132397416
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.000580s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=2 and node.pid=1 and node.status=1 [ RunTime:0.000713s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=12 and node.status=1 [ RunTime:0.000517s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=16 and node.status=1 [ RunTime:0.000549s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=20 and node.status=1 [ RunTime:0.000639s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=25 and node.status=1 [ RunTime:0.000469s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=28 and node.status=1 [ RunTime:0.000472s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011333s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000990s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000984s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000726s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003699s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001576s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001658s ]
+
+[ 2013-08-22T08:46:38+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/mytable?_=1377132398035
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.000861s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=2 and node.pid=1 and node.status=1 [ RunTime:0.000733s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=12 and node.status=1 [ RunTime:0.000456s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=16 and node.status=1 [ RunTime:0.000497s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=20 and node.status=1 [ RunTime:0.000504s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=25 and node.status=1 [ RunTime:0.000480s ]
+SQL: select node.id,node.name from role as role,role_user as user,access as access ,node as node where user.user_id='2' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=3 and node.pid=28 and node.status=1 [ RunTime:0.000440s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005078s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000453s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000454s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000343s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001983s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001183s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001265s ]
+

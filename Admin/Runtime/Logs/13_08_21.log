@@ -1,0 +1,1395 @@
+[ 2013-08-21T16:30:15+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/west?_=1377073814693
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.010640s ]
+SQL: SELECT * FROM `node` WHERE ( level=2 and ismenu=1 and status=1 ) ORDER BY sort  [ RunTime:0.039694s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='12' ) ORDER BY sort  [ RunTime:0.000471s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='16' ) ORDER BY sort  [ RunTime:0.000339s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='20' ) ORDER BY sort  [ RunTime:0.000302s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='25' ) ORDER BY sort  [ RunTime:0.000320s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='28' ) ORDER BY sort  [ RunTime:0.000369s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='32' ) ORDER BY sort  [ RunTime:0.000293s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='34' ) ORDER BY sort  [ RunTime:0.000277s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='37' ) ORDER BY sort  [ RunTime:0.000230s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='2' ) ORDER BY sort  [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.212749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.212847s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000632s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000453s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000346s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002286s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001277s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001405s ]
+
+[ 2013-08-21T16:30:15+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/south?_=1377073814721
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009953s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000890s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000554s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000395s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002660s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000987s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001065s ]
+
+[ 2013-08-21T16:30:15+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/center?_=1377073814704
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.082579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082676s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000778s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000759s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000572s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000798s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003117s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2013-08-21T16:30:15+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/north?_=1377073814683
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049637s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000907s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000782s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000584s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003219s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000973s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2013-08-21T16:30:15+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/east?_=1377073814708
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039827s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000714s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000745s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001881s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000842s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004395s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000970s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2013-08-21T16:30:15+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/mytable?_=1377073815658
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005384s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000545s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001345s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003188s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000900s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2013-08-21T16:30:36+08:00 ] 127.0.0.1 /jsk/admin.php/Config?_=1377073835982
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019682s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000557s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000511s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000406s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002281s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001810s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001895s ]
+
+[ 2013-08-21T16:30:42+08:00 ] 127.0.0.1 /jsk/admin.php/Alipay?_=1377073842281
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040011s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000692s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000490s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002449s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000697s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2013-08-21T16:30:43+08:00 ] 127.0.0.1 /jsk/admin.php/User/getAllUser
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.004861s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.041739s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 27 行.
+SQL: SELECT * FROM `user` ORDER BY `account` asc LIMIT 0,10   [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.004417s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='1' [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='2' [ RunTime:0.000270s ]
+
+[ 2013-08-21T16:31:00+08:00 ] 127.0.0.1 /jsk/admin.php/DataSecurity?_=1377073860345
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005059s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009640s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000477s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000463s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000355s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002061s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000773s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2013-08-21T16:32:06+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377073926693
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001494s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011476s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000651s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000651s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001074s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004065s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001610s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001853s ]
+
+[ 2013-08-21T16:32:08+08:00 ] 127.0.0.1 /jsk/admin.php/Sms?_=1377073928533
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006479s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000737s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000406s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008441s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000899s ]
+
+[ 2013-08-21T16:32:09+08:00 ] 127.0.0.1 /jsk/admin.php/Email?_=1377073929479
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011736s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001091s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001698s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002048s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008009s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001475s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2013-08-21T17:34:29+08:00 ] 127.0.0.1 /jsk/admin.php/Node?_=1377077669223
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.088555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088687s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000887s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000707s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003117s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001231s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2013-08-21T17:34:29+08:00 ] 127.0.0.1 /jsk/admin.php/Node/getAllNode
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.026669s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `node` LIMIT 1   [ RunTime:0.000505s ]
+SQL: SELECT * FROM `node` ORDER BY sort asc  [ RunTime:0.150501s ]
+
+[ 2013-08-21T17:34:50+08:00 ] 127.0.0.1 /jsk/admin.php/Node/getAllNode
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004338s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `node` LIMIT 1   [ RunTime:0.000310s ]
+SQL: SELECT * FROM `node` ORDER BY sort asc  [ RunTime:0.000738s ]
+
+[ 2013-08-21T17:37:56+08:00 ] 127.0.0.1 /jsk/admin.php/Role?_=1377077876061
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033066s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001162s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000993s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000848s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004251s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001338s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2013-08-21T17:37:56+08:00 ] 127.0.0.1 /jsk/admin.php/Role/getAllRole
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.027044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.000448s ]
+SQL: SELECT * FROM `role` ORDER BY id asc  [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.005176s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='1' [ RunTime:0.089648s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='2' [ RunTime:0.000685s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='20' [ RunTime:0.000261s ]
+
+[ 2013-08-21T17:37:59+08:00 ] 127.0.0.1 /jsk/admin.php/Node/getAllNode
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.008892s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `node` LIMIT 1   [ RunTime:0.000450s ]
+SQL: SELECT * FROM `node` ORDER BY sort asc  [ RunTime:0.000869s ]
+
+[ 2013-08-21T17:38:11+08:00 ] 127.0.0.1 /jsk/admin.php/User?_=1377077891860
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022725s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003315s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000883s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007802s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001302s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2013-08-21T17:38:12+08:00 ] 127.0.0.1 /jsk/admin.php/User/getAllUser
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.013966s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.000326s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 27 行.
+SQL: SELECT * FROM `user` ORDER BY `account` asc LIMIT 0,10   [ RunTime:0.000342s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.004210s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='1' [ RunTime:0.000496s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='2' [ RunTime:0.000241s ]
+
+[ 2013-08-21T17:38:23+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/north?_=1377077903628
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002642s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: nickname E:\wamp\www\jsk\Admin\Runtime\Cache\c0bdf354975f2871f339e1dca55e9098.php 第 81 行.
+NOTIC: [8] Undefined index: now_login_ip E:\wamp\www\jsk\Admin\Runtime\Cache\c0bdf354975f2871f339e1dca55e9098.php 第 81 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040689s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000869s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000955s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000991s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003818s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001830s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001905s ]
+
+[ 2013-08-21T17:38:23+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/center?_=1377077903642
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000891s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000914s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000654s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003511s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001020s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2013-08-21T17:38:23+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/east?_=1377077903645
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038230s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001460s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002290s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003458s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014089s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001373s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001581s ]
+
+[ 2013-08-21T17:38:24+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/west?_=1377077903637
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004762s ]
+SQL: SELECT * FROM `node` WHERE ( level=2 and ismenu=1 and status=1 ) ORDER BY sort  [ RunTime:0.000711s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='12' ) ORDER BY sort  [ RunTime:0.000495s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='16' ) ORDER BY sort  [ RunTime:0.000379s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='20' ) ORDER BY sort  [ RunTime:0.000354s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='25' ) ORDER BY sort  [ RunTime:0.000355s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='28' ) ORDER BY sort  [ RunTime:0.000545s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='32' ) ORDER BY sort  [ RunTime:0.000376s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='34' ) ORDER BY sort  [ RunTime:0.000354s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='37' ) ORDER BY sort  [ RunTime:0.000343s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='2' ) ORDER BY sort  [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037632s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001070s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000942s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000871s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004148s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001326s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001410s ]
+
+[ 2013-08-21T17:38:24+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/south?_=1377077903652
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012832s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000751s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000745s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000615s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003140s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001028s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001103s ]
+
+[ 2013-08-21T17:38:24+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/mytable?_=1377077903998
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005687s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001917s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001279s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003799s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008992s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000882s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2013-08-21T17:38:28+08:00 ] 127.0.0.1 /jsk/admin.php/User?_=1377077907967
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017699s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003169s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001053s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002897s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008230s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001134s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2013-08-21T17:38:28+08:00 ] 127.0.0.1 /jsk/admin.php/User/getAllUser
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.010413s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.000861s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\UserAction.class.php 第 27 行.
+SQL: SELECT * FROM `user` ORDER BY `account` asc LIMIT 0,10   [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.008581s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='1' [ RunTime:0.000495s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM role_user AS a, role AS b WHERE a.role_id = b.id AND a. user_id='2' [ RunTime:0.000289s ]
+
+[ 2013-08-21T17:38:42+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377077922372
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011259s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000700s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000676s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000708s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004728s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001058s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001125s ]
+
+[ 2013-08-21T17:38:43+08:00 ] 127.0.0.1 /jsk/admin.php/DataSecurity?_=1377077923447
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016768s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000671s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002261s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000640s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004480s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001093s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001166s ]
+
+[ 2013-08-21T17:54:07+08:00 ] 127.0.0.1 /jsk/admin.php/Role?_=1377078847735
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002083s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016836s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001008s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002608s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004158s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013502s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001640s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2013-08-21T17:54:08+08:00 ] 127.0.0.1 /jsk/admin.php/Role/getAllRole
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.013441s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.000441s ]
+SQL: SELECT * FROM `role` ORDER BY id asc  [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004919s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='1' [ RunTime:0.001227s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='2' [ RunTime:0.000659s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='20' [ RunTime:0.000340s ]
+
+[ 2013-08-21T17:54:13+08:00 ] 127.0.0.1 /jsk/admin.php/Node?_=1377078853252
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020885s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000753s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000575s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000425s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002601s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000845s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2013-08-21T17:54:13+08:00 ] 127.0.0.1 /jsk/admin.php/Node/getAllNode
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004665s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `node` LIMIT 1   [ RunTime:0.000397s ]
+SQL: SELECT * FROM `node` ORDER BY sort asc  [ RunTime:0.001111s ]
+
+[ 2013-08-21T17:57:28+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377079048400
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014293s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000882s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000708s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000563s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003178s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000943s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2013-08-21T17:57:28+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.006134s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000304s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000231s ]
+
+[ 2013-08-21T18:12:46+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377079966279
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017558s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001156s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000752s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000573s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003473s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001080s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2013-08-21T18:12:46+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.005332s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000290s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000265s ]
+
+[ 2013-08-21T18:20:59+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377080459259
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002163s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020574s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001345s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001031s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000694s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006823s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001663s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001752s ]
+
+[ 2013-08-21T18:20:59+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.007313s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.019455s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.001029s ]
+
+[ 2013-08-21T18:23:38+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377080618608
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014921s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000874s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000657s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000817s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003941s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000908s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2013-08-21T18:23:39+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.005222s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000798s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000373s ]
+
+[ 2013-08-21T18:24:21+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377080661143
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014921s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001020s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001949s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001599s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016503s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000966s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2013-08-21T18:24:21+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.006364s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000294s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000253s ]
+
+[ 2013-08-21T18:25:37+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377080737032
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025512s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000938s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.007565s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010204s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001104s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2013-08-21T18:25:37+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.023662s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000652s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000273s ]
+
+[ 2013-08-21T19:07:45+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377083265207
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016007s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000985s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000930s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001473s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004511s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000924s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000985s ]
+
+[ 2013-08-21T19:07:45+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.006745s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000309s ]
+
+[ 2013-08-21T19:18:56+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377083936073
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018668s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001817s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001046s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000743s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004956s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001811s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001933s ]
+
+[ 2013-08-21T19:18:56+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.004485s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000648s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000317s ]
+
+[ 2013-08-21T19:18:58+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.302322s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000571s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.150019s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:19:39+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377083979878
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012663s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000675s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000534s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000369s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002391s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002426s ]
+
+[ 2013-08-21T19:19:40+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.004848s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000493s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000303s ]
+
+[ 2013-08-21T19:19:41+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.072329s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000290s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000152s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:23:10+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/west?_=1377084187214
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:1.065414s ]
+SQL: SELECT * FROM `node` WHERE ( level=2 and ismenu=1 and status=1 ) ORDER BY sort  [ RunTime:1.057814s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='12' ) ORDER BY sort  [ RunTime:0.032748s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='16' ) ORDER BY sort  [ RunTime:0.001098s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='20' ) ORDER BY sort  [ RunTime:0.015188s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='25' ) ORDER BY sort  [ RunTime:0.001066s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='28' ) ORDER BY sort  [ RunTime:0.009162s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='32' ) ORDER BY sort  [ RunTime:0.000842s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='34' ) ORDER BY sort  [ RunTime:0.001069s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='37' ) ORDER BY sort  [ RunTime:0.000423s ]
+SQL: SELECT * FROM `node` WHERE ( 1=1 AND pid='2' ) ORDER BY sort  [ RunTime:0.002136s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.189499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.189628s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000698s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000615s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002604s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000873s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2013-08-21T19:23:10+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/north?_=1377084187198
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: nickname E:\wamp\www\jsk\Admin\Runtime\Cache\c0bdf354975f2871f339e1dca55e9098.php 第 81 行.
+NOTIC: [8] Undefined index: now_login_ip E:\wamp\www\jsk\Admin\Runtime\Cache\c0bdf354975f2871f339e1dca55e9098.php 第 81 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.072576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072660s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000861s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000787s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000680s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003780s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001154s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001235s ]
+
+[ 2013-08-21T19:23:10+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/center?_=1377084187218
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053501s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000814s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000933s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003708s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001064s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2013-08-21T19:23:10+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/south?_=1377084187228
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013048s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000830s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001053s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000826s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000949s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003950s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001691s ]
+
+[ 2013-08-21T19:23:10+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/east?_=1377084187222
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.153716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153851s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000766s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000681s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000705s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003145s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001531s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001601s ]
+
+[ 2013-08-21T19:23:10+08:00 ] 127.0.0.1 /jsk/admin.php/Layout/mytable?_=1377084190401
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8] Constant THEME_NAME already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined E:\wamp\www\jsk\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004742s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000517s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000851s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000468s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002913s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001006s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2013-08-21T19:23:14+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377084194745
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019746s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002742s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001008s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000797s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008716s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001012s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2013-08-21T19:23:15+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.009386s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000578s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000420s ]
+
+[ 2013-08-21T19:23:16+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.005445s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000294s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000165s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:23:29+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377084209062
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018720s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001224s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003071s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000709s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006384s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000889s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2013-08-21T19:23:29+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.006254s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000334s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.001265s ]
+
+[ 2013-08-21T19:23:30+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.004469s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000405s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000210s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:23:41+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.006975s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.001725s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000170s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:24:46+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.007982s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000388s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000167s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:25:38+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.012190s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.005232s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000290s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:25:46+08:00 ] 127.0.0.1 /jsk/admin.php/Apply?_=1377084346701
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+ERR: 无法加载模块:Apply
+
+[ 2013-08-21T19:25:47+08:00 ] 127.0.0.1 /jsk/admin.php/Shop?_=1377084347784
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.119203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119418s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002666s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002237s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001888s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.007260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014675s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002103s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002318s ]
+
+[ 2013-08-21T19:25:48+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.006032s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000333s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.013357s ]
+
+[ 2013-08-21T19:35:59+08:00 ] 127.0.0.1 /jsk/admin.php/Shop?_=1377084959632
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018123s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001491s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002829s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004160s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010052s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001046s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2013-08-21T19:36:00+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.006894s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000319s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000352s ]
+
+[ 2013-08-21T19:36:04+08:00 ] 127.0.0.1 /jsk/admin.php/Role/getAllRole
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.077232s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\RoleAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\RoleAction.class.php 第 15 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.016757s ]
+SQL: SELECT * FROM `role` ORDER BY id asc  [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.004945s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='1' [ RunTime:0.138465s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='2' [ RunTime:0.013967s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='20' [ RunTime:0.000870s ]
+
+[ 2013-08-21T19:36:23+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.007310s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000717s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000287s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:36:31+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.004670s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000311s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,20   [ RunTime:0.000675s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,20  
+
+[ 2013-08-21T19:36:33+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllShop
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.006549s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 16 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 18 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000300s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 24 行.
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000169s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+
+[ 2013-08-21T19:42:37+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377085357110
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001713s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038411s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001050s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000989s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000631s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003927s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001317s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001398s ]
+
+[ 2013-08-21T19:42:37+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.006693s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.000334s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.003132s ]
+
+[ 2013-08-21T19:42:39+08:00 ] 127.0.0.1 /jsk/admin.php/Role/getAllRole
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.008099s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\RoleAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\RoleAction.class.php 第 15 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.000594s ]
+SQL: SELECT * FROM `role` ORDER BY id asc  [ RunTime:0.000375s ]
+SQL: SHOW COLUMNS FROM `node` [ RunTime:0.010528s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='1' [ RunTime:0.001547s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='2' [ RunTime:0.006176s ]
+NOTIC: [8] Undefined index: mapping_order E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\wamp\www\jsk\ThinkPHP\Extend\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM access AS a, node AS b WHERE a.node_id = b.id AND a. role_id='20' [ RunTime:0.000780s ]
+
+[ 2013-08-21T19:44:14+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin?_=1377085454668
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022882s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000776s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000770s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000428s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002789s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000721s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2013-08-21T19:44:15+08:00 ] 127.0.0.1 /jsk/admin.php/Feiyin/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `feiyin` [ RunTime:0.007909s ]
+NOTIC: [8] Undefined index: name E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 17 行.
+NOTIC: [8] Undefined index: createdatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 19 行.
+NOTIC: [8] Undefined index: modifydatetimeStart E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `feiyin` LIMIT 1   [ RunTime:0.001018s ]
+NOTIC: [8] Undefined variable: condition E:\wamp\www\jsk\Admin\Lib\Action\FeiyinAction.class.php 第 25 行.
+SQL: SELECT * FROM `feiyin` ORDER BY `id` asc LIMIT 0,10   [ RunTime:0.000422s ]
+
+[ 2013-08-21T19:44:17+08:00 ] 127.0.0.1 /jsk/admin.php/Shop/getAllData
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `shop` [ RunTime:0.007232s ]
+NOTIC: [8] Undefined index: sort E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 36 行.
+NOTIC: [8] Undefined index: order E:\wamp\www\jsk\Admin\Lib\Action\ShopAction.class.php 第 37 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shop` LIMIT 1   [ RunTime:0.000460s ]
+SQL: SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10   [ RunTime:0.000160s ]
+ERR: 1054:Unknown column '' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `shop` ORDER BY ``  LIMIT 0,10  
+

@@ -1,0 +1,84 @@
+[ 2013-08-10T10:47:56+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001613s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035804s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' E:\wamp\www\jsk\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' E:\wamp\www\jsk\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.017286s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002749s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002689s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002972s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026791s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.015944s ]
+INFO: [ view_end ] --END-- [ RunTime:0.016202s ]
+
+[ 2013-08-10T14:38:33+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002285s ]
+
+[ 2013-08-10T14:39:22+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001791s ]
+
+[ 2013-08-10T14:39:39+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+
+[ 2013-08-10T14:42:47+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+
+[ 2013-08-10T14:42:48+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+
+[ 2013-08-10T17:20:49+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+
+[ 2013-08-10T17:33:45+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+
+[ 2013-08-10T17:40:09+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+
+[ 2013-08-10T17:49:22+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+
+[ 2013-08-10T18:00:52+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+
+[ 2013-08-10T18:03:00+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+
+[ 2013-08-10T18:12:08+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+
+[ 2013-08-10T18:51:15+08:00 ] 127.0.0.1 /jsk/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+

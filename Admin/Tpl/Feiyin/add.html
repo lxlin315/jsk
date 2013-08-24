@@ -1,0 +1,72 @@
+<script type="text/javascript">
+    $(function() {
+        $('#admin_feiyinAdd_combogrid').combogrid({
+            multiple: false,
+            nowrap: false,
+            url: APP + '/Shop/getAllData',
+            panelWidth: 450,
+            panelHeight: 200,
+            idField: 'id',
+            textField: 'name',
+            pagination: true,
+            fitColumns: true,
+            editable: false,
+            mode: 'remote',
+            delay: 500,
+            pageSize: 10,
+            pageList: [10, 20],
+            columns: [[{
+                        field: 'id',
+                        title: '编号',
+                        width: 150,
+                        checkbox: true,
+                        hidden: true
+                    }, {
+                        field: 'name',
+                        title: '商户名称',
+                        width: 150
+                    }, {
+                        field: 'username',
+                        title: '负责人',
+                        width: 300
+                    }, {
+                        field: 'create_time',
+                        title: '创建时间',
+                        width: 300
+                    }]]
+        });
+    });
+</script>
+<div>
+    <form id="admin_feiyinAdd_addForm" method="post">
+        <table class="tableForm">
+            <tr>
+                <th style="width: 80px;">商户信息</th>
+                <td><input id="admin_feiyinAdd_combogrid" name="shopIds" style="width: 145px;"/>
+                </td>
+                <th style="width: 80px;">使用状态</th>
+                <td><select class="easyui-combobox1" name="status" data-options="panelHeight:43">  
+                        <option value="1">可用</option>  
+                        <option value="0">禁用</option>  
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>商户编码</th>
+                <td><input name="shopkey" type="text" class="easyui-validatebox" data-options="required:true"/>
+                </td>
+                <th>API密钥</th>
+                <td><input name="apikey" type="text" class="easyui-validatebox" data-options="required:true"/>
+                </td>
+            </tr>
+            <tr>
+                <th>终端编号</th>
+                <td><input name="machinekey" type="text" class="easyui-validatebox" data-options="required:true"/>
+                </td>
+                <th>手机卡号</th>
+                <td><input name="mobile" type="text" class="easyui-validatebox" data-options="required:true"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>

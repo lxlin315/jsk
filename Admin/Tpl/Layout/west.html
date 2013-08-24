@@ -1,0 +1,22 @@
+<script type="text/javascript">
+    function layout_center_addTab(url, title) {
+        layout_center_addTabFun({
+            title: title,
+            closable: true,
+            href: url,
+        });
+    }
+</script>
+<div class="easyui-accordion" data-options="fit:true,border:false">
+    <volist name='node' id='vo'>        
+    <div title="{$vo.title}" data-options="iconCls:'icon-house'" class="left_menu">
+        <ul>
+            <volist name="vo{'node'}" id='sub'>
+            <li>
+                <div onclick="layout_center_addTab('__APP__/{$sub.name}', '{$sub.title}');"><img src="__PUBLIC__/images/house_go.png" width="16" height="16"/>{$sub.title}</div>
+            </li>
+            </volist>
+        </ul>
+    </div>
+    </volist>
+</div>
